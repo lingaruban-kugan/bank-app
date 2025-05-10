@@ -3,7 +3,7 @@ import random
 
 def auto_create_accunut():
     return random.randint(100000,999999)
-
+#test command for git 
 #===================== CREATE CUSTOMER (ACCOUNT CREATION) ===================================    
 
 def create_customer():
